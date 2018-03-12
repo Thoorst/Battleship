@@ -29,6 +29,7 @@ public class Game extends User{
     int ship4 = 1;
     boolean newG;
     int[][] battleField;
+    //comit
     
     public Game(String login, String password){
         this.login = login;
